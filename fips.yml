@@ -1,0 +1,10 @@
+#
+# fips-wren-vm
+#
+---
+
+exports:
+    header-dirs:
+        - wren/src/include
+    modules:
+        wren-vm: .
